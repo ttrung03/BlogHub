@@ -1,0 +1,14 @@
+/* LoginPage.css */
+.login-form {
+  max-width: 500px;
+  margin-top: 40px;
+}
+
+.login-form .submit-btn {
+  margin-top: 16px;
+  background-color: #1976d2;
+  color: white;
+}
+.login-form .submit-btn:hover {
+  background-color: #115293;
+}

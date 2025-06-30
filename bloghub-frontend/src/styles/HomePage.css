@@ -1,0 +1,24 @@
+/* HomePage.css */
+.home-page {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.home-page h1 {
+  font-size: 2.5rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.home-page .MuiCard-root {
+  transition: transform 0.3s ease;
+}
+
+.home-page .MuiCard-root:hover {
+  transform: scale(1.05);
+}
+.home-page .MuiCardContent-root {
+  padding: 20px;
+}

@@ -1,0 +1,14 @@
+/* RegisterPage.css */
+.register-form {
+  max-width: 500px;
+  margin-top: 40px;
+}
+
+.register-form .submit-btn {
+  margin-top: 16px;
+  background-color: #1976d2;
+  color: white;
+}
+.register-form .submit-btn:hover {
+  background-color: #115293;
+}
